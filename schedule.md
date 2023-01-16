@@ -6,7 +6,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 
 | Day     | Title / Notes                                                      | Reading         | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
-| Th 1/20 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                            |
+| Th 1/20 | [Introduction]                      |                 |                                            |
 | Tu 1/25 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1.1 - 1.2 |                                      |
 | Th 1/27 | [Conditional Probability](lectures/L03-ConditionalProbability-slides.pdf) | M4D Chapter 1.2 | [HW 1](homeworks/hw1.pdf), Due Tu 2/22<br>[hippocampus data](homeworks/OASIS-hippocampus.csv) |
 | Tu 2/1  | Conditional Probability, cont.<br>[ExampleSolutions.ipynb](homeworks/ExampleSolutions.ipynb) |      |                             |
