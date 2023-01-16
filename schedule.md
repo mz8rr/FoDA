@@ -6,33 +6,33 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 
 | Day     | Title / Notes                                                      | Reading         | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
-| Th 1/20 | [Introduction]                      |                 |                                            |
-| Tu 1/25 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1.1 - 1.2 |                                      |
-| Th 1/27 | [Conditional Probability](lectures/L03-ConditionalProbability-slides.pdf) | M4D Chapter 1.2 | [HW 1](homeworks/hw1.pdf), Due Tu 2/22<br>[hippocampus data](homeworks/OASIS-hippocampus.csv) |
-| Tu 2/1  | Conditional Probability, cont.<br>[ExampleSolutions.ipynb](homeworks/ExampleSolutions.ipynb) |      |                             |
-| Th 2/3  | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          | M4D 1.6 - 1.8   |                                            |
-| Tu 2/8  | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf)<br>[Probability Cheat Sheet!](lectures/ProbabilityCheatSheet.pdf) | [Naive Bayes Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | |
-| Th 2/10 | Naive Bayes, cont.<br>[SimpleDataPlots.ipynb](examples/SimpleDataPlots.ipynb)<br>**Quiz 1**                                   |                 |                                            |
-| Tu 2/15 | [Linear Algebra Basics: Vectors](lectures/L06-Vectors.pdf) | M4D Chapter 3<br>Extra: [UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |   |
-| Th 2/17 | [K-means Clustering, Nearest Neighbor](lectures/L07-Clustering.pdf) | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 |  |
-| Tu 2/22 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf)|  | **HW 1 Due** |
-| Th 2/24 | [Bayesian Estimation](lectures/L09-BayesianEstimation.pdf) | | |
-| Tu 3/1  | [Hypothesis Testing: Fisher Exact Test](lectures/L10-HypothesisTesting-FisherTest.pdf) | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) | [HW 2](homeworks/hw2.pdf), Due Th 3/24<br>[traffic.csv](homeworks/traffic.csv)<br>[cardiac.csv](homeworks/cardiac.csv)|
-| Th 3/3  | [Linear Regression](lectures/L11-LinearRegression.pdf) | M4D Section 5.1  |    |
-| Tu 3/8  | *Spring Break -- no class* | | |
-| Th 3/10 | *Spring Break -- no class* | | |
-| Tu 3/15 | [Linear Algebra Basics: Matrices](lectures/L12-Matrices.pdf) |         |   | 
-| Th 3/17 | Multiple Linear Regression <br>[MultipleLinearRegression.ipynb](examples/MultipleLinearRegression.ipynb)<br>**Quiz 2** |   |  |
-| Tu 3/22 | Multiple Linear Regression cont. |         |  |
-| Th 3/24 | [Singular Value Decomposition (SVD)](lectures/L13-SVD.pdf)<br>[SVD.ipynb](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | [HW 3](homeworks/hw3.pdf), Due Th 4/7<br>[life_expectancy.csv](homeworks/life_expectancy.csv)<br>**HW 2 Due** |
-| Tu 3/29 | [Principal Component Analysis](lectures/L14-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
-| Th 3/31 | [Canonical Correlation Analysis](lectures/L15-CCA.pdf)<br>[CCA.ipynb](examples/CCA.ipynb) | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |  |
-| Tu 4/5  | [Logistic Regression](lectures/L16-LogisticRegression.pdf) | [Logistic Regression on Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression) |  |
-| Th 4/7  | [Logistic Regression, cont.](lectures/L16-LogisticRegression2.pdf) |         | [HW 4](homeworks/hw4.pdf), Due Th 4/21<br>[all-hands.dat](homeworks/all-hands.dat)<br>**HW 3 Due** |
-| Tu 4/12 | [Intro to Neural Networks: Perceptron](lectures/L17-Perceptron.pdf)<br>**Quiz 3** | M4D Chapter 9 - 9.2  |        |
-| Th 4/14 | [Backpropagation](lectures/L18-Backprop.pdf)  |         |   |
-| Tu 4/19 | [Convolution](lectures/L19-Convolution.pdf) |         |  |
-| Th 4/21 | Convolution, cont. |         | [HW 5](homeworks/hw5.pdf), Due Wed 5/11<br>[Python code for loading CIFAR-10](homeworks/readCIFAR.py)<br>**HW 4 Due**  |
-| Tu 4/26 | [Generative Models](lectures/L20-GenerativeModels.pdf) |         |   |
-| Th 4/28 | AutoEncoders / Variational AutoEncoders |         |   |
-| Tu 5/3  | TBA<br>**Quiz 4** |         |   |
+| W 1/18 | Introduction                      |                 |                                            |
+| M 1/23 | Basic probability            | M4D Chapter 1.1 - 1.2 |                                      |
+| W 1/25 | Conditional Probability | M4D Chapter 1.2 | HW 1, Due W 2/8|
+| M 1/30 | Conditional Probability, cont. |      |                             |
+| W 2/1  | Bayes' Rule                       | M4D 1.6 - 1.8   |                                            |
+| M 2/6  | Classification and Naive Bayes |           |           |
+| W 2/8  | Naive Bayes, cont.                                  |                 | **HW 1 Due**  |
+| M 2/13 | Linear Algebra Basics: Vectors | M4D Chapter 3 |   |
+| W 2/15 | K-means Clustering, Nearest Neighbor| M4D Chapter 8.1 - 8.3  | HW 2, Due W 2/27 |
+| M 2/17 | Maximum Likelihood Estimation|  |  |
+| W 2/22 | Bayesian Estimation & Hypothesis Testing | |  |
+| M 2/27 | Linear Regression| M4D Section 5.1 | **HW 2 Due** |
+| W 3/1  | **Midterm Exam - Take Home**  |   |    |
+| M 3/6  | *Spring Break -- no class* | | |
+| W 3/8  | *Spring Break -- no class* | | |
+| M 3/13 | Linear Algebra Basics: Matrices |   |   | 
+| W 3/15 | Multiple Linear Regression  |   |  | HW 3, Due W 3/29 |
+| M 3/20 | Multiple Linear Regression cont. |         |  |
+| W 3/22 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2) |  HW 3, Due W 4/12 |
+| M 3/27 | Principal Component Analysis | M4D Finish Chapter 7 |  |
+| W 3/29 | Canonical Correlation Analysis |  | **HW 3 Due** |
+| M 4/3  | Logistic Regression |  |  |
+| W 4/5  | Logistic Regression, cont. |         | HW 4, Due Th 4/19 |
+| M 4/10 | Intro to Neural Networks: Perceptron| M4D Chapter 9 - 9.2  |        |
+| W 4/12 | Backpropagation |         |    |
+| M 4/17 | Convolution |         |  |
+| W 4/19 | Convolution, cont. |  |**HW 4 Due** |
+| M 4/24 | AutoEncoders / Variational AutoEncoders |    |   |
+| W 4/26 | Final Exam Review |   |   |
+| M 5/1  | **Final Exam - In Class** |   |   |
