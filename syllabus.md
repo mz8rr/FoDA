@@ -26,4 +26,3 @@ The following topics will be covered, subject to changes. See the course web pag
   - Stochastic gradient descent
   - Convolutional networks
   - Autoencoders
-  - Generative models
