@@ -36,3 +36,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 4/24 | AutoEncoders / Variational AutoEncoders |    |   |
 | W 4/26 | Final Exam Review |   |   |
 | M 5/1  | **Final Exam - In Class** |   |   |
+
+
+## Disclaimer
+
+The instructor reserves the right to make changes to the course schedule, syllabus, and project deadlines. Changes will be announced early in advance.
