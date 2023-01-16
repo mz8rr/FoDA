@@ -6,11 +6,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 
 | Day      | Title / Notes                                                      | Reading         | Homework                                   |
 |----------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
-| W 1/18  | Introduction                      |                 |                                            |
-| M 1/23  | Basic probability            | M4D Chapter 1.1 - 1.2 |                                      |
-| W 1/25  | Conditional Probability | M4D Chapter 1.2 | HW 1, Due W 2/8|
-| M 1/30  | Conditional Probability, cont. |      |                             |
-| W 2/1   | Bayes' Rule                       | M4D 1.6 - 1.8   |                                            |
+| W 1/18  | Introduction                                                        |                 |                                            |
+| M 1/23  | Basic probability                                                   | M4D Chapter 1.1 - 1.2 |                                      |
+| W 1/25  | Conditional Probability                                             | M4D Chapter 1.2 | HW 1, Due W 2/8                            |
+| M 1/30  | Conditional Probability, cont.                                      |      |                                                       |
+| W 2/1   | Bayes' Rule                                                         | M4D 1.6 - 1.8   |                                            |
 | M 2/6   | Classification and Naive Bayes |           |           |
 | W 2/8   | Naive Bayes, cont.                                  |                 | **HW 1 Due**  |
 | M 2/13  | Linear Algebra Basics: Vectors | M4D Chapter 3 |   |
