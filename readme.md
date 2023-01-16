@@ -13,11 +13,11 @@ machine learning, in particular, deep neural networks.
 * **Location:** Thornton E303 and online via Zoom
 * **Instructor:** Miaomiao Zhang (mz8rr *AT* virginia *DOT* edu)
   - Office Hours: Fridays 3:30 - 4:30 PM
-* **TA:** Hyun Jae Cho
+* **TA:** Hyun Jae Cho (hc2kc *AT* virginia *DOT* edu)
   - Office Hours:  Mondays 1:30 - 3:30 PM
-* **TA:** Jian Wang
+* **TA:** Jian Wang (jw4hv *AT* virginia *DOT* edu)
   - Office Hours: Tuesdays 2 - 4 PM
-* **TA:** Zhe Wang
+* **TA:** Zhe Wang (zw6sg *AT* virginia *DOT* edu)
   - Office Hours: Thursdays 10 - 12 PM
 
 * **Textbook:** Some readings from [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
