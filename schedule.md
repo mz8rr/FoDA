@@ -24,7 +24,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 3/13 | Linear Algebra Basics: Matrices |   |   | 
 | W 3/15 | Multiple Linear Regression  |   |  | HW 3, Due W 3/29 |
 | M 3/20 | Multiple Linear Regression cont. |         |  |
-| W 3/22 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2) |  HW 3, Due W 4/12 |
+| W 3/22 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2) |   |
 | M 3/27 | Principal Component Analysis | M4D Finish Chapter 7 |  |
 | W 3/29 | Canonical Correlation Analysis |  | **HW 3 Due** |
 | M 4/3  | Logistic Regression |  |  |
