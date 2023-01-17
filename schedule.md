@@ -18,7 +18,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 2/17  | Maximum Likelihood Estimation|  |  |
 | W 2/22  | Bayesian Estimation & Hypothesis Testing | |  |
 | M 2/27  | Linear Regression| | **HW 2 Due** |
-| W 3/1   | **Midterm Exam - Take Home**  |   |    |
+| W 3/1   | **Midterm Exam - In Class**  |   |    |
 | M 3/6   | *Spring Break -- no class* | | |
 | W 3/8   | *Spring Break -- no class* | | |
 | M 3/13  | Linear Algebra Basics: Matrices |   |   | 
@@ -35,7 +35,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 4/19  | Convolution, cont. |  |**HW 4 Due** |
 | M 4/24  | AutoEncoders / Variational AutoEncoders |    |   |
 | W 4/26  | Final Exam Review |   |   |
-| M 5/1   | **Final Exam - In Class** |   |   |
+| M 5/1   | **Final Exam - Take Home** |   |   |
 
 
 ## Disclaimer
