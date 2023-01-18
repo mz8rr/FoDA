@@ -6,7 +6,7 @@
 
 **Anonymous Feedback.** Comments or suggestions are always welcome! Feel free to send them through the anonymous feedback tool in Collab.
 
-**Grading.** The final course grade is based on the homework assignments (80% total) and quizzes (20%).
+**Grading.** The final course grade is based on the homework assignments (70% total) and exams (30%).
 
 Homework assignments will consist of writing Python code to solve problems as well as written questions. Submissions must be Jupyter notebooks, which lets you combine formatted text and Python code in an easy-to-use format.
 
