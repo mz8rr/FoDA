@@ -6,7 +6,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 
 | Day      | Title / Notes                                                      | Reading         | Homework                                   |
 |----------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
-| W 1/18  | Introduction                                                        |                 |                                            |
+| W 1/18  | [Introduction](lectures/FoDA-01_18.pdf)                       |                 |                                            |
 | M 1/23  | Basic probability                                                   |  |                                      |
 | W 1/25  | Conditional Probability                                             |  | HW 1, Due W 2/8                            |
 | M 1/30  | Conditional Probability, cont.                                      |      |                                                       |
