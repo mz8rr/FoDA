@@ -6,8 +6,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 
 | Day      | Title / Notes                                                      | Reading         | Homework                                   |
 |----------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
-| W 1/18  | [Introduction](lectures/FoDA-01_18.pdf)              |   M4D Chapter 1.1 - 1.2              |                                            |
-| M 1/23  | [Basic probability](lectures/FoDA-01:23.pdf)                                                   |  |                                      |
+| W 1/18  | [Introduction](lectures/FoDA-01_18.pdf)              |              |                                            |
+| M 1/23  | [Basic probability](lectures/FoDA-01:23.pdf)         |  M4D Chapter 1.1 - 1.2   |                                      |
 | W 1/25  | Conditional Probability                                             |  | HW 1, Due W 2/8                            |
 | M 1/30  | Conditional Probability, cont.                                      |      |                                                       |
 | W 2/1   | Bayes' Rule                                                         |    |                                            |
