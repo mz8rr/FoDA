@@ -9,14 +9,14 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 1/18  | [Introduction](lectures/FoDA-01_18.pdf)              |              |                                            |
 | M 1/23  | [Basic probability](lectures/FoDA-01:23.pdf)         |  M4D Chapter 1.1 - 1.2   |                                      |
 | W 1/25  | Conditional Probability                                             |  | HW 1, Due W 2/8                            |
-| M 1/30  | Conditional Probability, cont.                                      |      |                                                       |
-| W 2/1   | Bayes' Rule                                                         |    |                                            |
-| M 2/6   | Classification and Naive Bayes |           |           |
-| W 2/8   | Naive Bayes, cont.                                  |                 | **HW 1 Due**  |
-| M 2/13  | Linear Algebra Basics: Vectors |  |   |
-| W 2/15  | K-means Clustering, Nearest Neighbor|   | HW 2, Due W 2/27 |
-| M 2/17  | Maximum Likelihood Estimation|  |  |
-| W 2/22  | Bayesian Estimation & Hypothesis Testing | |  |
+| M 1/30  | Bayes' Rule                                      |      |                                                       |
+| W 2/1   | Classification and Naive Bayes                                                         |    |                                            |
+| M 2/6   | Naive Bayes, cont. |           |           |
+| W 2/8   | Linear Algebra Basics: Vectors                                  |                 | **HW 1 Due**  |
+| M 2/13  | K-means Clustering, Nearest Neighbor |  |   |
+| W 2/15  | Maximum Likelihood Estimation|   | HW 2, Due W 2/27 |
+| M 2/17  | Bayesian Estimation|  |  |
+| W 2/22  | Hypothesis Testing | |  |
 | M 2/27  | Linear Regression| | **HW 2 Due** |
 | W 3/1   | **Midterm Exam - In Class**  |   |    |
 | M 3/6   | *Spring Break -- no class* | | |
