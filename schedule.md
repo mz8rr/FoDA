@@ -8,7 +8,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 |----------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
 | W 1/18  | [Introduction](lectures/FoDA-01_18.pdf)              |              |                                            |
 | M 1/23  | [Basic probability](lectures/FoDA-01:23.pdf)         |  M4D Chapter 1.1 - 1.2   |                                      |
-| W 1/25  | Conditional Probability                                             |  | HW 1, Due W 2/8                            |
+| W 1/25  | [Conditional Probability](lectures/ConditionalProb-01:25.pdf)  |  | HW 1, Due W 2/8                            |
 | M 1/30  | Bayes' Rule                                      |      |                                                       |
 | W 2/1   | Classification and Naive Bayes                                                         |    |                                            |
 | M 2/6   | Naive Bayes, cont. |           |           |
