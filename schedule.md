@@ -11,13 +11,13 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 1/25  | [Conditional Probability](lectures/ConditionalProb-01:25.pdf)  |  | HW 1, Due W 2/8                            |
 | M 1/30  | Bayes' Rule                                      |      |                                                       |
 | W 2/1   | Classification and Naive Bayes                                                         |    |                                            |
-| M 2/6   | Naive Bayes, cont. |           |           |
-| W 2/8   | Linear Algebra Basics: Vectors                                  |                 | **HW 1 Due**  |
-| M 2/13  | K-means Clustering, Nearest Neighbor |  |   |
-| W 2/15  | Maximum Likelihood Estimation|   | HW 2, Due W 2/27 |
-| M 2/17  | Bayesian Estimation|  |  |
-| W 2/22  | Hypothesis Testing | |  |
-| M 2/27  | Linear Regression| | **HW 2 Due** |
+| M 2/6   | Linear Algebra Basics: Vectors |           |           |
+| W 2/8   | K-means Clustering, Nearest Neighbor                                  |                 | **HW 1 Due**  |
+| M 2/13  | Maximum Likelihood Estimation |  |   |
+| W 2/15  | Bayesian Estimation |   | HW 2, Due W 2/27 |
+| M 2/17  | Hypothesis Testing|  |  |
+| W 2/22  | Linear Regression | |  |
+| M 2/27  | Midterm Review | | **HW 2 Due** |
 | W 3/1   | **Midterm Exam - In Class**  |   |    |
 | M 3/6   | *Spring Break -- no class* | | |
 | W 3/8   | *Spring Break -- no class* | | |
@@ -34,7 +34,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 4/17  | Convolution |         |  |
 | W 4/19  | Convolution, cont. |  |**HW 4 Due** |
 | M 4/24  | AutoEncoders / Variational AutoEncoders |    |   |
-| W 4/26  | Final Exam Review |   |   |
+| W 4/26  | Generative adversarial networks |   |   |
 | M 5/1   | **Final Exam - Take Home** |   |   |
 
 
