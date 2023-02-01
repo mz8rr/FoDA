@@ -9,8 +9,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 1/18  | [Introduction](lectures/FoDA-01_18.pdf)              |              |                                            |
 | M 1/23  | [Basic probability](lectures/FoDA-01:23.pdf)         |  M4D Chapter 1.1 - 1.2   |                                      |
 | W 1/25  | [Conditional Probability](lectures/ConditionalProb-01:25.pdf)  |  | HW 1, Due W 2/8                            |
-| M 1/30  | Bayes' Rule                                      |      |                                                       |
-| W 2/1   | Classification and Naive Bayes                                                         |    |                                            |
+| M 1/30  | [Bayes' Rule](lectures/BayesRule-01:30.pdf)                                      |      |           |
+| W 2/1   | [Classification and Naive Bayes](lectures/NaiveBayes-02:01.pdf)               |    |                                            |
 | M 2/6   | Linear Algebra Basics: Vectors |           |           |
 | W 2/8   | K-means Clustering, Nearest Neighbor                                  |                 | **HW 1 Due**  |
 | M 2/13  | Maximum Likelihood Estimation |  |   |
