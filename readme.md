@@ -18,7 +18,7 @@ machine learning, in particular, deep neural networks.
 * **TA:** Jian Wang (jw4hv *AT* virginia *DOT* edu)
   - Office Hours: Tuesdays 2 - 4 PM (@Rice Hall 442)
 * **TA:** Zhe Wang (zw6sg *AT* virginia *DOT* edu)
-  - Office Hours: Thursdays 10 - 12 PM (@Rice Hall 442)
+  - Office Hours: Thursdays 10AM - 12 PM (@Rice Hall 442)
 
 * **Textbook:** Some readings from a free online resource [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
