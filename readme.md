@@ -12,13 +12,13 @@ machine learning, in particular, deep neural networks.
 * **Time:** MW 3:30 - 4:45 PM
 * **Location:** Thornton E303 and online via Zoom
 * **Instructor:** Miaomiao Zhang (mz8rr *AT* virginia *DOT* edu)
-  - Office Hours: Fridays 3:30 - 4:30 PM (@Rice Hall 300)
+  - Office Hours: Fridays 3:30 - 4:30 PM (**@Rice Hall 300)
 * **TA:** Hyun Jae Cho (hc2kc *AT* virginia *DOT* edu)
-  - Office Hours:  Mondays 1:30 - 3:30 PM (@Rice Hall 103)
+  - Office Hours:  Mondays 1:30 - 3:30 PM (**@Rice Hall 103)
 * **TA:** Jian Wang (jw4hv *AT* virginia *DOT* edu)
-  - Office Hours: Tuesdays 2 - 4 PM (@Rice Hall 109)
+  - Office Hours: Tuesdays 2 - 4 PM (**@Rice Hall 109)
 * **TA:** Zhe Wang (zw6sg *AT* virginia *DOT* edu)
-  - Office Hours: Thursdays 10AM - 12 PM (@Rice Hall 103)
+  - Office Hours: Thursdays 10AM - 12 PM (**@Rice Hall 103)
 
 * **Textbook:** Some readings from a free online resource [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
