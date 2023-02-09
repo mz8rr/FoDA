@@ -78,5 +78,5 @@ It is the University's long-standing policy and practice to reasonably accommoda
 
 Students who wish to request academic accommodation for a religious observance should submit their request in writing directly to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at <UVAEOCR@virginia.edu> or 434-924-3200.
 
-**Addendum (2/18/2022): Late Penalty Waivers.**
+**Addendum (01/18/2023): Late Penalty Waivers.**
 The first two days of homework late penalties that you incur will be waived. In other words, you will not receive the 10 pts deduction for either of the first two days you submit a late homework. This can be for used on any homework throughout the semester. You can take two days for a single homework, or one day each for two homeworks.
