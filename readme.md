@@ -12,7 +12,7 @@ machine learning, in particular, deep neural networks.
 * **Time:** MW 3:30 - 4:45 PM
 * **Location:** Thornton E303 and online via Zoom
 * **Instructor:** Miaomiao Zhang (mz8rr *AT* virginia *DOT* edu)
-  - Office Hours: Fridays 1:00 - 2:00 PM (**@Rice Hall 300**)
+  - Office Hours: Fridays 1 - 2 PM (**@Rice Hall 300**)
 * **TA:** Hyun Jae Cho (hc2kc *AT* virginia *DOT* edu)
   - Office Hours:  Mondays 1:30 - 3:30 PM (**@Rice Hall 103**)
 * **TA:** Jian Wang (jw4hv *AT* virginia *DOT* edu)
