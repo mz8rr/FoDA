@@ -16,7 +16,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 2/13  | [Maximum Likelihood Estimation](lectures/MLE-02:13.pdf) | [MLE class notes](lectures/MLE-notes-02:13.pdf) |   |
 | W 2/15  | [Bayesian Estimation](lectures/BayesianEstimation-2:15.pdf) |   | HW 2, Due W 2/27 |
 | M 2/17  | Hypothesis Testing|  |  |
-| W 2/22  | Linear Regression | |  |
+| W 2/22  | [Linear Regression](lectures/LinearRegression-02:22.pdf) | |  |
 | M 2/27  | Midterm Review | | **HW 2 Due** |
 | W 3/1   | **Midterm Exam - In Class**  |   |    |
 | M 3/6   | *Spring Break -- no class* | | |
