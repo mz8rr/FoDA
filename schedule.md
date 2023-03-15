@@ -21,7 +21,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 3/1   | **Midterm Exam - In Class**  |   |    |
 | M 3/6   | *Spring Break -- no class* | | |
 | W 3/8   | *Spring Break -- no class* | | |
-| M 3/13  | Linear Algebra Basics: Matrices |   |   | 
+| M 3/13  | [Linear Algebra Basics: Matrices](lectures/Matrices-03:13.pdf) |   |   | 
 | W 3/15  | Multiple Linear Regression  |   | HW 3, Due W 3/29 |
 | M 3/20  | Multiple Linear Regression cont. |         |  |
 | W 3/22  | Singular Value Decomposition (SVD) |  |   |
