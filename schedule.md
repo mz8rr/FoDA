@@ -25,7 +25,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 3/15  | Multiple Linear Regression  |   | HW 3, Due W 3/29 |
 | M 3/20  | Multiple Linear Regression cont. |         |  |
 | W 3/22  | Singular Value Decomposition (SVD) |  |   |
-| M 3/27  | Principal Component Analysis |  |  |
+| M 3/27  | [Principal Component Analysis](lectures/PCA-03:27.pdf) |  |  |
 | W 3/29  | Canonical Correlation Analysis |  | **HW 3 Due** |
 | M 4/3   | Logistic Regression |  |  |
 | W 4/5   | Logistic Regression, cont. |         | HW 4, Due Th 4/19 |
