@@ -26,7 +26,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 3/20  | Multiple Linear Regression cont. |         |  |
 | W 3/22  | [Singular Value Decomposition (SVD)](lectures/PCA-03:22.pdf) |  |   |
 | M 3/27  | [Principal Component Analysis](lectures/PCA-03:27.pdf) |  |  |
-| W 3/29  | Canonical Correlation Analysis |  | **HW 3 Due** |
+| W 3/29  | [Canonical Correlation Analysis](lectures/CCA-03:29.pdf) |  | **HW 3 Due** |
 | M 4/3   | Logistic Regression |  |  |
 | W 4/5   | Logistic Regression, cont. |         | HW 4, Due Th 4/19 |
 | M 4/10  | Intro to Neural Networks: Perceptron|   |        |
