@@ -16,7 +16,7 @@ machine learning, in particular, deep neural networks.
 * **TA:** Hyun Jae Cho (hc2kc *AT* virginia *DOT* edu)
   - Office Hours:  Mondays 1:30 - 3:30 PM (**@Rice Hall 103**)
 * **TA:** Jian Wang (jw4hv *AT* virginia *DOT* edu)
-  - Office Hours: Tuesdays 2 - 4 PM (**@Rice Hall 109**)
+  - Office Hours: Tuesday 3:30 - 4:30 pm and Friday 3:30 - 4:30 pm (**@Rice Hall 109**)
 * **TA:** Zhe Wang (zw6sg *AT* virginia *DOT* edu)
   - Office Hours: Thursdays 10AM - 12 PM (**@Rice Hall 103**)
 
