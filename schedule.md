@@ -29,7 +29,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 3/29  | [Canonical Correlation Analysis](lectures/CCA-03:29.pdf) |  | **HW 3 Due** |
 | M 4/3   | [Logistic Regression](lectures/LogisticRegression-04:05.pdf) |  |  |
 | W 4/5   | Logistic Regression, cont. |         | HW 4, Due Th 4/19 |
-| M 4/10  | Intro to Neural Networks: Perceptron|   |        |
+| M 4/10  | [Intro to Neural Networks: Perceptron](lectures/IntroNN-Perceptron-04:10.pdf)|   |        |
 | W 4/12  | Backpropagation |         |    |
 | M 4/17  | Convolution |         |  |
 | W 4/19  | Convolution, cont. |  |**HW 4 Due** |
