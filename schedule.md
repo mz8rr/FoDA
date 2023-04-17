@@ -30,8 +30,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 4/3   | [Logistic Regression](lectures/LogisticRegression-04:05.pdf) |  |  |
 | W 4/5   | Logistic Regression, cont. |         | HW 4, Due Th 4/19 |
 | M 4/10  | [Intro to Neural Networks: Perceptron](lectures/IntroNN-Perceptron-04:10.pdf)|   |        |
-| W 4/12  | Backpropagation |         |    |
-| M 4/17  | Convolution |         |  |
+| W 4/12  | [Backpropagation](lectures/Backprop-04:12.pdf) |         |    |
+| M 4/17  | [Convolution](lectures/SGD&Convolution-04:17.pdf) |         |  |
 | W 4/19  | Convolution, cont. |  |**HW 4 Due** |
 | M 4/24  | AutoEncoders / Variational AutoEncoders |    |   |
 | W 4/26  | Generative adversarial networks |   |   |
