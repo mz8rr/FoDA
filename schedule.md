@@ -32,8 +32,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 4/10  | [Intro to Neural Networks: Perceptron](lectures/IntroNN-Perceptron-04:10.pdf)|   |        |
 | W 4/12  | [Backpropagation](lectures/Backprop-04:12.pdf) |         |    |
 | M 4/17  | [Convolution](lectures/SGD&Convolution-04:17.pdf) |         |  |
-| W 4/19  |  Deep Convolutional Neural Networks |  |**HW 4 Due** |
-| M 4/24  | AutoEncoders / Variational AutoEncoders |    |   |
+| W 4/19  | [Deep Convolutional Neural Networks](lectures/DNN-04:19.pdf) |  |**HW 4 Due** |
+| M 4/24  | [AutoEncoders / Variational AutoEncoders](lectures/VAE-04:24.pdf) |    |   |
 | W 4/26  | Generative adversarial networks |   |   |
 | M 5/1   | **Final Exam - Take Home** |   |   |
 
