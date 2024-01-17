@@ -6,7 +6,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 
 | Day      | Title / Notes                                                      | Reading         | Homework                                   |
 |----------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
-| W 1/17  | [Introduction](lectures/FoDA-01_18.pdf)              |              |                                            |
+| W 1/17  | [Introduction]#(lectures/FoDA-01_18.pdf)              |              |                                            |
 | M 1/22  | [Basic probability](lectures/FoDA-01:23.pdf)         |  M4D Chapter 1.1 - 1.2   |                                      |
 | W 1/24  | [Conditional Probability](lectures/ConditionalProb-01:25.pdf)  |  | HW 1, Due W 2/8                            |
 | M 1/29  | [Bayes' Rule](lectures/BayesRule-01:30.pdf)          |  M4D 1.6 - 1.8    |           |
