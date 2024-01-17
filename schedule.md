@@ -28,7 +28,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | M 3/25  | Principal Component Analysis|  |  |
 | W 3/27  | Canonical Correlation Analysis |  | **HW 3 Due** |
 | M 4/1   | Logistic Regression |  |  |
-| W 4/3   | Logistic Regression, cont. |         | HW 4, Due Th 4/17 |
+| W 4/3   | Logistic Regression, cont. |         | HW 4, Due W 4/17 |
 | M 4/8  | Intro to Neural Networks: Perceptron|   |        |
 | W 4/10  | Backpropagation|         |    |
 | M 4/15  | Convolution |         |  |
