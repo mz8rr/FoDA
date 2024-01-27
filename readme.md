@@ -17,7 +17,7 @@ machine learning, in particular, deep neural networks.
   - Office Hours: Tuesday 3:30 - 5:30 PM (**@Rice Hall 314**)
 * **TA:** Jerry Xing (jx8fh *AT* virginia *DOT* edu)
   - Office Hours: Thursdays 2:00-4:00 pm (**@Rice Hall 314**)
-* **TA:** TBD
+* **TA:** Nivetha Jayakumar (vfb8zv@virginia.edu)
   - Office Hours: Fridays 1:00 - 3:00 PM (**@Rice Hall 303**)
 
 * **Textbook:** Some readings from a free online resource [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
