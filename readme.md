@@ -14,7 +14,7 @@ machine learning, in particular, deep neural networks.
 * **Instructor:** Miaomiao Zhang (mz8rr *AT* virginia *DOT* edu)
   - Office Hours: Fridays 3:30 - 4:30 PM (**@Rice Hall 300**)
 * **TA:** Ritwick Mishra (mbc7bu *AT* virginia *DOT* edu)
-  - Office Hours: Tuesday 3:30 - 5:30 PM (**@Rice Hall 314**)
+  - Office Hours: Tuesday 3:30 - 5:30 PM (**@Rice Hall 414**)
 * **TA:** Jerry Xing (jx8fh *AT* virginia *DOT* edu)
   - Office Hours: Thursdays 2:00-4:00 pm (**@Rice Hall 314**)
 * **TA:** Nivetha Jayakumar (vfb8zv@virginia.edu)
