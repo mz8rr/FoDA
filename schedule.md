@@ -15,7 +15,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | W 2/7    | K-means Clustering, Nearest Neighbor         |                 | **HW 1 Due**  |
 | M 2/12   | Maximum Likelihood Estimation       |
 | W 2/14   | Bayesian Estimation     |               | HW 2, Due W 2/26 |
-| M 2/16   | Hypothesis Testing     |  |  |
+| M 2/19   | Hypothesis Testing     |  |  |
 | W 2/21   | Linear Regression       | |  |
 | M 2/26   | Midterm Review | | **HW 2 Due** |
 | W 2/28   | **Midterm Exam - In Class**  |   |    |
