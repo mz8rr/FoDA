@@ -13,10 +13,10 @@ machine learning, in particular, deep neural networks.
 * **Location:** Thornton E316 (lectures will be recorded)
 * **Instructor:** Miaomiao Zhang (mz8rr *AT* virginia *DOT* edu)
   - Office Hours: Fridays 3:30 - 4:30 PM (**@Rice Hall 300**)
-* **TA:** Maria Anna Cardei (cbr8ru *AT* virginia *DOT* edu)
-  - Office Hours: TBD (**@Rice Hall TBD**)
 * **TA:** Md Khairul Islam (mi3se *AT* virginia *DOT* edu)
-  - Office Hours: TBD (**@Rice Hall TBD**)
+  - Office Hours: Mondays 11AM-1PM (**@Rice Hall TBD**)
+* **TA:** Maria Ana Cardei (cbr8ru *AT* virginia *DOT* edu)
+  - Office Hours: Wednesdays 1-3PM (**@Rice Hall TBD**)
 * **TA:** Zhenyu Lei (vjd5zr *AT* virginia *DOT* edu)
   - Office Hours: TBD (**@Rice Hall TBD**)
 
