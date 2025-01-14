@@ -9,16 +9,16 @@ machine learning, in particular, deep neural networks.
 
 ## Logistics
 
-* **Time:** Tu/Thur 2:00 - 3:15 PM
+* **Time:** TTh 2:00 - 3:15 PM
 * **Location:** Thornton E316 (lectures will be recorded)
 * **Instructor:** Miaomiao Zhang (mz8rr *AT* virginia *DOT* edu)
-  - Office Hours: Fridays 3:30 - 4:30 PM (**@Rice Hall 300**)
+  - Office Hours: Fridays 3:30PM-4:30PM (**@Rice Hall 300**)
 * **TA:** Md Khairul Islam (mi3se *AT* virginia *DOT* edu)
-  - Office Hours: Mondays 11AM-1PM (**@Rice Hall TBD**)
+  - Office Hours: Mondays 11AM-1PM (**TBD**)
 * **TA:** Maria Ana Cardei (cbr8ru *AT* virginia *DOT* edu)
-  - Office Hours: Wednesdays 1-3PM (**@Rice Hall TBD**)
+  - Office Hours: Wednesdays 1PM-3PM (**TBD**)
 * **TA:** Zhenyu Lei (vjd5zr *AT* virginia *DOT* edu)
-  - Office Hours: TBD (**@Rice Hall TBD**)
+  - Office Hours: 12PM-2PM (**TBD**)
 
 * **Textbook:** Some readings from a free online resource [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
