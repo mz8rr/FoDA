@@ -24,6 +24,6 @@ The following topics will be covered, subject to changes. See the course web pag
   - Feedforward neural networks
   - Backpropagation
   - Stochastic gradient descent
-  - Convolutional networks
-  - Autoencoders
+  - Convolutional neural networks
+  - (Variational) Autoencoders
   - Generative models
