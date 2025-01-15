@@ -14,11 +14,11 @@ machine learning, in particular, deep neural networks.
 * **Instructor:** Miaomiao Zhang (mz8rr *AT* virginia *DOT* edu)
   - Office Hours: Fridays 3:30PM-4:30PM (**@Rice Hall 300**)
 * **TA:** Md Khairul Islam (mi3se *AT* virginia *DOT* edu)
-  - Office Hours: Mondays 11AM-1PM (**TBD**)
+  - Office Hours: Mondays 11AM-1PM (**@Rice Hall 442**)
 * **TA:** Maria Ana Cardei (cbr8ru *AT* virginia *DOT* edu)
-  - Office Hours: Wednesdays 1PM-3PM (**TBD**)
+  - Office Hours: Wednesdays 1PM-3PM (**Olsson (Link Lab) 225**)
 * **TA:** Zhenyu Lei (vjd5zr *AT* virginia *DOT* edu)
-  - Office Hours: 12PM-2PM (**TBD**)
+  - Office Hours: 12PM-2PM (**@Rice Hall 442**)
 
 * **Textbook:** Some readings from a free online resource [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
