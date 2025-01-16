@@ -16,7 +16,7 @@ machine learning, in particular, deep neural networks.
 * **TA:** Md Khairul Islam (mi3se *AT* virginia *DOT* edu)
   - Office Hours: Mondays 11AM-1PM (**@Rice Hall 442**)
 * **TA:** Maria Ana Cardei (cbr8ru *AT* virginia *DOT* edu)
-  - Office Hours: Wednesdays 1PM-3PM (**Olsson (Link Lab) 225**)
+  - Office Hours: Wednesdays 11AM-1PM (**Olsson (Link Lab) 225**)
 * **TA:** Zhenyu Lei (vjd5zr *AT* virginia *DOT* edu)
   - Office Hours: 12PM-2PM (**@Rice Hall 442**)
 
