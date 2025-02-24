@@ -20,7 +20,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/20  | Linear Algebra Basics: Matrices | |  |
 | T 2/25   | Multiple Linear Regression  |   |  **HW 2 Due**  |
 | Th 2/27  | Midterm Review | | |
-| T 3/4    | Multiple Linear Regression cont. | | |
+| T 3/4    | Basics of MCMC Sampling | | |
 | Th 3/6   | **Midterm Exam - In Class**|   |   | 
 | T 3/11   | *Spring Break -- no class*  |   |  |
 | Th 3/13  | *Spring Break -- no class* |         |  |
