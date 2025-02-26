@@ -18,7 +18,7 @@ machine learning, in particular, deep neural networks.
 * **TA:** Maria Ana Cardei (cbr8ru *AT* virginia *DOT* edu)
   - Office Hours: Wednesdays 11AM-1PM (**Olsson (Link Lab) 225**)
 * **TA:** Zhenyu Lei (vjd5zr *AT* virginia *DOT* edu)
-  - Office Hours: 12PM-2PM (**@Rice Hall 442**)
+  - Office Hours: Fridays 12PM-2PM (**@Rice Hall 442**)
 
 * **Textbook:** Some readings from a free online resource [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
