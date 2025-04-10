@@ -31,9 +31,9 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | T 4/1    | Logistic Regression, cont. |         | **HW 3 Due**|
 | Th 4/3    | Intro to Neural Networks: Perceptron|   |        |
 | T 4/8   | Backpropagation|         | HW 4, Due T 4/22   |
-| Th 4/10   | Convolution |         |  |
-| T 4/15   | Deep Convolutional Neural Networks |  | |
-| Th 4/17   |  AutoEncoders / Variational AutoEncoders |    |   |
+| Th 4/10   | Convolution & Deep Convolutional Neural Networks |         |  |
+| T 4/15   | AutoEncoders / Variational AutoEncoders  |  | |
+| Th 4/17   |  Basics Of Transformer |    |   |
 | T 4/22   | Generative models: diffusion model |   | **HW 4 Due**  |
 | Th 4/24   | Final Exam review |   |   |
 | Th 4/29   | **Final Exam - Take home** |   |   |
