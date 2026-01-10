@@ -34,8 +34,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 4/9   | Convolution & Deep Convolutional Neural Networks |         |  |
 | T 4/14   | Basics Of Transformer  |  | **HW 4 Due** |
 | Th 4/16   | AutoEncoders / Variational AutoEncoders |    | **HW 5 (optional, bonus)**  |
-| T 4/21   | Generative diffusion model |   | **HW 5 Due** |
-| Th 4/23   | Final Exam review |   |   |
+| T 4/21   | Generative diffusion model |   |  |
+| Th 4/23   | Final Exam review |   | **HW 5 Due** |
 | Th 4/28   | **Final Exam - Take home** |   |   |
 
 
