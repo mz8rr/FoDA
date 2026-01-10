@@ -26,4 +26,4 @@ The following topics will be covered, subject to changes. See the course web pag
   - Stochastic gradient descent
   - Convolutional neural networks
   - (Variational) Autoencoders
-  - Generative models
+  - Generative Diffusion models
