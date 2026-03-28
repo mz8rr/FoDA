@@ -28,9 +28,9 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/19   | Principal Component Analysis|  |  |
 | T 3/24   | Canonical Correlation Analysis |  |  |
 | Th 3/26    | Logistic Regression |  |  **HW 3 Due** |
-| T 3/31    | Support Vector Machine |         | HW 4, Due T 4/21 |
-| Th 4/2    | Intro to Neural Networks: Perceptron|   | HW 4, Due T 4/14       |
-| T 4/7   | Backpropagation|         | HW 4, Due T 4/21   |
+| T 3/31    | Support Vector Machine |         | HW 4, Due T 4/14 |
+| Th 4/2    | Intro to Neural Networks: Perceptron|   |      |
+| T 4/7   | Backpropagation|         |    |
 | Th 4/9   | Convolution & Deep Convolutional Neural Networks |         |  |
 | T 4/14   | Basics Of Transformer  |  | **HW 4 Due** |
 | Th 4/16   | AutoEncoders / Variational AutoEncoders |    | **HW 5 (optional, bonus)**  |
